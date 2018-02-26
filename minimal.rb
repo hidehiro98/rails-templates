@@ -161,7 +161,6 @@ environment.plugins.set('Provide',
 )
 
 JS
-  end
 
   # Figaro
   ########################################
